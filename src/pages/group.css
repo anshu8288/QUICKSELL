@@ -1,0 +1,13 @@
+.Groups-Container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.Group-Container{
+    margin: 20px;
+}
+
+.Group-Heading{
+    font-size: large;
+}

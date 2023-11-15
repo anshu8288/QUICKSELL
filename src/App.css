@@ -1,0 +1,53 @@
+.Header{
+    background-color: white;
+    padding: 20px 10px;
+width:100%;
+}
+
+.menu-toggle{
+    text-align: center;
+    margin-left: 14px;
+    margin-bottom: -7px;
+    width: fit-content;
+    padding: 3px;
+    background-color: white;
+    border: 1.3px solid rgb(166, 166, 166);
+    border-radius: 5px;
+    box-shadow: 0 0 3px rgba(116, 116, 116, 0.9); 
+    font-size: 14px;
+}
+
+.menu{
+    position: sticky;
+    justify-content: space-around;
+    border: 1px solid black;
+    height: 60px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 15px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(81, 80, 80, 0.5);
+    
+}
+
+.menu>.select>span{
+    margin-right: 20px;
+}
+
+
+.icc{
+    margin-left: 8px;
+    margin-right: 8px;
+    padding: 1px;
+    font-size: 14px;
+  }
+  .navbar{
+    position: sticky;
+
+  }
+  .top{
+    height: 40px;
+    background-color: black;
+    margin-bottom: -20px;
+  }
